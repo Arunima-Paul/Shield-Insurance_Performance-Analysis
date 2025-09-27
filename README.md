@@ -3,4 +3,4 @@ Insurance data analyzed to gain insights about revenue growth, customer growth, 
 
 Live Dashboard link - https://lnkd.in/gJMw9egB
 
-Youtube Video presentation link - https://lnkd.in/g9u_BtQV
+Youtube Video presentation link - https://www.youtube.com/embed/alhoLEBEJM8?si=60_ZWr0wVxHPUBqF

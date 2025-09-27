@@ -101,7 +101,7 @@ In the Customers by Sales Mode, the pie chart shows that the majority of the cus
 This dashboard reflects how different age groups buy the policies, different sales channels, expected settlements and monthly trends. 
 
 - In the Total Customers by Age Group bar chart - it shows that our largest customer group is 31-40 years old, with 10593 customers which is about 39% of the total 26841.
-- 
+  
 - The next group is 41-50 years old with 5878 customers , which is also 22% of total customers, after that 25-30 years, 51-65 years, 65+ years, and the youngest group is <18-24 with 1943 customers.
 
 - From here it can be understood that working adults in their 30s and 40s make up over half the customers. It can be suggested focusing to marketing on family-oriented policies like health or life insurance to retain and grow this major group.
@@ -149,7 +149,7 @@ Here are some simple and straightforward ideas based on the insights:
    
 5.	Lastly simple metrics can be set up to monitor the changes like monthly revenue per channel or customer growth by age. Small pilot projects can be tested such as app updates or city campaigns and the data to be reviewed.
 
-This is the end of the analysis. Thank you for reading.
+This is the end of the analysis. Thank you for visiting.
 
 Dataset obtained from Codebasics Virtual Internship 1.
 

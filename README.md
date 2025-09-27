@@ -24,13 +24,13 @@ Coming to the dashboard, as per the mockup provided by the project, I have devel
 
 **3rd dashboard is of Age Group Analysis** → It explores customer age demographics, expected settlements and policy preferences to analyze product targeting.
 
-**Key Insights from the Shield Insurance General View Dashboard**
+**1. Key Insights from the Shield Insurance General View Dashboard**
 
 <img width="1513" height="816" alt="Dash_1a" src="https://github.com/user-attachments/assets/13ffa8a1-f343-4427-89b5-cd7240934294" />
 
 This dashboard gives an overview of the total performance, breakdowns by city and age and monthly trends.
 
-For Overall Business, Shield Insurance have generated a total revenue of 989.25 million rupees from 26,841 customers.
+For Overall Business, Shield Insurance have generated a total revenue of 989.25 million rupees from 26841 customers.
 
 - On a daily basis growth that is about 5.47 million in revenue and 148 new customers.
   
@@ -38,40 +38,64 @@ For Overall Business, Shield Insurance have generated a total revenue of 989.25 
   
 -For Key takeaway: The insurance business is growing steadily. This positive trend means their strategies are working, but they should keep monitoring daily metrics to spot any early issues.
 
-Coming to the Performance by City we can see that Delhi NCR leads the pack with 11,007 customers which is about 41% of total and 401.57 million in revenue (also around 41% total). 
+Coming to the Performance by City we can see that Delhi NCR leads the pack with 11007 customers which is about 41% of total and 401.57 million in revenue (also around 41% total). 
 
-- Mumbai comes to the second, with 6,432 customers bringing in 239.51 million revenues. Followed by Hyderabad, Chennai and Indore.
+- Mumbai comes to the second, with 6432 customers bringing in 239.51 million revenues. Followed by Hyderabad, Chennai and Indore.
   
-- Interestingly, average revenue per customer is highest in Indore at about 40,000 rupees, while it is fairly consistent around 36,000-37,000 in other cities.
+- Interestingly, average revenue per customer is highest in Indore at about 40000 rupees, while it is fairly consistent around 36000-37000 in other cities.
   
 - From these charts we can see that, major cities like Delhi NCR and Mumbai drive most of the business.
   
-Coming to the Performance by Age Group we can see that the 31-40 age group is the biggest segment, with 10,593 customers (39% of total) generating 317.05 million in revenue (which is 32% of total).
+Coming to the Performance by Age Group we can see that the 31-40 age group is the biggest segment, with 10593 customers (39% of total) generating 317.05 million in revenue (which is 32% of total).
 
-- Next age group is 41-50 with 5,878 customers and 223.70 million, followed by 25-30 (3,241 customers, 57.75 million), 51-65 (2,996 customers, 162.09 million), 18-24 (1,943 customers, 26.77 million), and 65+ (2,200 customers, 201.89 million).
+- Next age group is 41-50 with 5878 customers and 223.70 million, followed by 25-30 (3241 customers, 57.75 million revenue), 51-65 (2996 customers, 162.09 million revenue), 18-24 (1943 customers, 26.77 million revenue), and 65+ (2200 customers, 201.89 million revenue).
   
-- The 65+ segment has the highest average revenue per customer at around 92,000 rupees, compared to just 14,000 for 18-24.
+- The 65+ segment has the highest average revenue per customer at around 92000 rupees, compared to just 14000 for 18-24.
   
-So, the conclusion here is Mid-career adults from age bracket 31-50 bring in volume, but seniors (65+) are also high value as well.
+**So, the conclusion here is Mid-career adults from age bracket 31-50 bring in volume, but seniors (age 65+) are also high value as well.**
 
 In the City and Age Group Breakdown table we can see in detail how age groups perform in each city. For example:
 
-  - The highest age group is 31-40 comes from Delhi NCR and with 130.55 million rupees revenue.
+  - The highest age group is 31-40 comes from Delhi NCR and generates 130.55 million rupees revenue.
     
-  - Mumbai's 31-40 group has 2481 customers and 74.72 million revenues.
+  - For Mumbai, the 31-40 group has 2481 customers and 74.72 million revenues.
     
-  - Younger groups (18-30) are more prominent in cities like Hyderabad and Chennai but contribute less revenue overall.
+  - Younger groups from 18-30 are more prominent in cities like Hyderabad and Chennai but contribute less revenue overall.
     
-  - So, the Patterns vary by city—e.g., Delhi has more young professionals, while Mumbai and Indore have valuable older customers.
+  - Therefore, the pattern varies by city e.g. Delhi has more young professionals while Mumbai and Indore have valuable older customers.
     
-In case of Monthly Trends Revenue, it was 132 million in November 2022 and rises to 156 million in December 2022. 
-Dips to 141 million in January 2023, again dips slightly to 139 million in February 2023, peaks at 246 million in March 2023, then falls to 154 million in April 2023. 
+In case of Monthly Trends Revenue, it was 132 million in November 2022 and increases to 156 million in December 2022. 
+Decreases to 141 million in January 2023, again slightly gets down to 139 million in February 2023, increases at 246 million in March 2023, then again falls to 154 million in April 2023. 
 
-- In Customer trends is similar like before: Rises from November 2022 to December 2022. Then rises to 7081 in March 2023, Coming down in April 2023.
+- In Customer trends is similar like before: Rises from November 2022 to December 2022. Then increases to 7081 in March 2023, going down in April 2023.
   
 So, we can see big spikes in March 2023 and December 2022 with November 2022 as a slow spot. 
 
-Overall, in short, Shield Insurance is in a strong position with nearly a billion in revenue, driven by metro cities like Delhi NCR and middle-aged customers.
+**Overall, in short, Shield Insurance is in a strong position with nearly a billion in revenue, driven by metro cities like Delhi NCR and middle-aged customers.**
+
+**2. Key Insights from the Sales Mode Analysis Dashboard**
+
+<img width="1470" height="819" alt="Dash_2" src="https://github.com/user-attachments/assets/5f429969-9a65-436b-84ed-c76920e1a57a" />
+
+This dashboard shows how the sales are happening through different sales modes, like offline agents, offline direct, online app and online website breaking down by revenue and customers.
+
+In the Customers by Sales Mode, the pie chart shows that the majority of the customers (about 55.41%)  come through offline agents. This means agents in person or over the phone are bringing in the most people.
+
+- around 16.03% customers come from the online app, 15.86% from offline direct (like walk-ins or calls without agents), and only about 12.70% customers are from the online website.
+  
+- In the Revenue by Sales Mode pie chart, it tells the same story. The offline agents generate the most revenue, at around 55.67% of the total.
+
+- Therefore it can be said that Offline agents are the main powerhouse for both customers and revenue which emphasizes the value of personal interactions in insurance sales.
+
+- In the two monthly sales mode trend vs revenue and vs customer chart we can see fluctuations over the months- November 2022, December 2022, January 2023, February 2023, March 2023, April 2023.
+  
+- Across the modes, the offline agent consistently makes up the largest chunk of revenue each month. Similar story for monthly trend with customers - Here also offline agents dominate the customer count most months, aligning with the overall pie chart.
+  
+-  **Overall, the insurance business is strong in offline channels, particularly through agents, for both customer volume and revenue. The seasonal peaks show better performance around March and December.**
+
+-  
+
+
 
 
 
